@@ -1,7 +1,6 @@
 import random
 import string
 from time import sleep
-from turtle import color
 from termcolor import colored
 import datetime
 
